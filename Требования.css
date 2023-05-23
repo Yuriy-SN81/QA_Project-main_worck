@@ -20,22 +20,15 @@
 }
 
 /* Add a color to the active/current link */
-<<<<<<< HEAD
-/*.topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-}*/
-=======
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
 }
->>>>>>> c46c1a78160257890841c17f3c04029a0c0c488a
 
 
 .content1 {
     
-    background-color: #f7f7f4;
+    background-color: #f9f9f4;
     color: #042a4a;
     width: 1240px;
     height: 110px;
@@ -47,38 +40,40 @@
     margin: 0 auto;
     
 }
-.STLC {
-    width: 100px;
-   position: absolute;
-   right: 70px;
- }
- .bug {
-     width: 100px;
-   position: absolute;
-   left: 70px;}
-
-   .content2 {
-    color: #042a4a;
-    width: 1240px;
-    height: 800px;
-    border: 1px solid rgb(17, 1, 1);
-    text-align: left;
-    position: absolute;
+    
+    .content2 {
+        
+        color: #042a4a;
+        width: 1240px;
+        height: 2800px;
+        border: 1px solid rgb(17, 1, 1);
+        text-align: left;
+        position: absolute;
     left: 0;
     right: 0;
     margin: 0 auto;
-    top: 25%;
-    text-align:justify;
-    background: url(матрица.jpg) ;
-  
-}
-.content3 {
-    margin-left: 10px;
-    margin-right: 10px;
-    text-indent:30px;
-   
-}
+        top: 25%;
+        text-align:justify;
+        background: url(матрица.jpg) ;
+      
+    }
+    .content3 {
+        margin-left: 10px;
+        margin-right: 10px;
+        text-indent:30px;
+       
+    }
 
-.title_text {
-    text-decoration: none;
-}
+    .STLC {
+       width: 100px;
+      position: absolute;
+      right: 70px;
+    }
+    .bug {
+        width: 100px;
+      position: absolute;
+      left: 70px;}
+
+     
+    
+   
