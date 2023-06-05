@@ -40,7 +40,7 @@
     margin: 0 auto;
     
 }
-<<<<<<< HEAD
+
 /*Картинка STLC*/
 .STLC {
     width: 80px;
@@ -59,7 +59,7 @@
     top:20px;
     margin-left: 10px;
  }
-=======
+
 .STLC {
     width: 100px;
    position: absolute;
@@ -69,7 +69,7 @@
      width: 100px;
    position: absolute;
    left: 70px;}
->>>>>>> c46c1a78160257890841c17f3c04029a0c0c488a
+
 
    .content2 {
     color: #042a4a;

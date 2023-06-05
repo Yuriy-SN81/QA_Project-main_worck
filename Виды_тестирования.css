@@ -40,7 +40,6 @@
     margin: 0 auto;
     
 }
-<<<<<<< HEAD
 /*Картинка STLC*/
 .STLC {
     width: 80px;
@@ -59,26 +58,11 @@
     top:20px;
     margin-left: 10px;
  }
-=======
-.STLC {
-    width: 100px;
-   position: absolute;
-   right: 70px;
- }
- .bug {
-     width: 100px;
-   position: absolute;
-   left: 70px;}
->>>>>>> c46c1a78160257890841c17f3c04029a0c0c488a
 
    .content2 {
     color: #042a4a;
     width: 1240px;
-<<<<<<< HEAD
     height: 1035px;
-=======
-    height: 800px;
->>>>>>> c46c1a78160257890841c17f3c04029a0c0c488a
     border: 1px solid rgb(17, 1, 1);
     text-align: left;
     position: absolute;
@@ -97,7 +81,6 @@
    
 }
 
-<<<<<<< HEAD
 /*.title_text {
     text-decoration: none;
 }*/
@@ -107,8 +90,5 @@ p,  h3 , h2, h4, li {
     font-family: 'Montserrat', sans-serif;
 }
 a {
-=======
-.title_text {
->>>>>>> c46c1a78160257890841c17f3c04029a0c0c488a
     text-decoration: none;
 }
